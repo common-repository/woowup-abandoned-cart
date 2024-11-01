@@ -1,0 +1,9 @@
+Version 1.0.0 - 2021-04-12
+- Initial Release
+Version 1.0.1 - 2021-08-27
+- Fix: Abandoned cart is not deleted if an error occurred when send to WoowUp 
+- Fix: It is verified that the client exists
+Version 1.1.1 - 2021-09-02
+- Feat: Tables are added in the settings section to see abandoned carts
+Version 1.1.2 - 2022-01-13
+- Fix: Abandoned cart does not map createtime anymore
